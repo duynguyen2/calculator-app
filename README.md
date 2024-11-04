@@ -1,8 +1,3 @@
-# calculator-app
-Certainly! Here’s a sample README that provides a clearer and more detailed overview of the calculator app repository.
-
----
-
 # Calculator App
 
 A simple yet functional calculator application built with JavaScript, HTML, and CSS. This project demonstrates basic arithmetic operations and serves as a foundation for learning front-end development.
